@@ -39,13 +39,15 @@ Desarrollador apasionado por el ecosistema **.NET** desde el primer día. La tec
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![.NET Framework](https://img.shields.io/badge/.NET_Framework-5C2D91?style=flat-square&logo=dotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-68217A?style=flat-square&logo=dotnet&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF%20Core-10-512BD4)
 
 **Frontend**
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular20+-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_4%2B-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **Datos**
 
@@ -54,7 +56,7 @@ Desarrollador apasionado por el ecosistema **.NET** desde el primer día. La tec
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-**Arquitectura y diseño**
+**Arquitectura y Diseño**
 
 ![DDD](https://img.shields.io/badge/DDD-E67E22?style=flat-square)
 ![CQRS](https://img.shields.io/badge/CQRS-E67E22?style=flat-square)
@@ -62,14 +64,16 @@ Desarrollador apasionado por el ecosistema **.NET** desde el primer día. La tec
 ![Microservicios](https://img.shields.io/badge/Microservicios-E67E22?style=flat-square)
 ![SOLID](https://img.shields.io/badge/SOLID-2C3E50?style=flat-square)
 ![Clean Code](https://img.shields.io/badge/Clean_Code-2C3E50?style=flat-square)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 
 **Testing**
 
 ![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![NUnit](https://img.shields.io/badge/NUnit-22A146?style=flat-square&logo=dotnet&logoColor=white)
 
-**Herramientas y metodologías**
+**Herramientas y Metodologías**
 
-![Visual Studio](https://img.shields.io/badge/Visual_Studio_2022-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio_2026-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
