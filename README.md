@@ -71,6 +71,18 @@ Desarrollador apasionado por el ecosistema **.NET** desde el primer día. La tec
 ![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![NUnit](https://img.shields.io/badge/NUnit-22A146?style=flat-square&logo=dotnet&logoColor=white)
 
+**IA y Desarrollo de Aplicaciones LLM** · 🌱 *en aprendizaje activo*
+
+![Microsoft Agent Framework](https://img.shields.io/badge/Microsoft_Agent_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Microsoft.Extensions.AI](https://img.shields.io/badge/Microsoft.Extensions.AI-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Semantic Kernel](https://img.shields.io/badge/Semantic_Kernel-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-8E44AD?style=flat-square)
+![Embeddings](https://img.shields.io/badge/Embeddings-8E44AD?style=flat-square)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8E44AD?style=flat-square)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-8E44AD?style=flat-square)
+
 **Herramientas y Metodologías**
 
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio_2026-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
