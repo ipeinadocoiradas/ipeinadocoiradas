@@ -130,8 +130,8 @@ Desarrollador apasionado por el ecosistema **.NET** desde el primer día. La tec
 
 ## 🎓 Formación y certificaciones
 
-- 🏅 **GAIPC . Generative AI Professional Certification
-- 🏅 **SFPC - Scrum Foundation Professional Certificate
+- 🏅 **GAIPC** . Generative AI Professional Certification
+- 🏅 **SFPC** - Scrum Foundation Professional Certificate
 - 🏅 **Lean Six Sigma White Belt** Professional Certification (LSSWBPC)
 - 🏅 **MCTS** .NET Framework 3.5 — ADO.NET Applications
 - 🏅 **MCTS** .NET Framework 2.0 — Web Applications
